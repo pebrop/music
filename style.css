@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.chalu{
+    background-color: orange;
+    height: 20vh;
+    
+}
+
+
+.t1{
+    color: white;
+    font-family: arial;
+    position: absolute;
+    left: 40%;
+    top: 10px;
+}
+
+.t2{
+    color: rgb(0, 0, 0);
+    font-family: arial;
+    position: absolute;
+    left: 37%;
+    top: 60px;
+}
+
+
+button{
+    position: absolute;
+    left: 45%;
+    top: 170px;
+    background-color: rgb(252, 71, 71);
+    color: white;
+    border: none;
+    width: 8vw;
+    height: 7vh;
+}
